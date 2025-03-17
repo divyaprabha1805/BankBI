@@ -3,6 +3,9 @@
 ## Overview
 BankBI is a business intelligence platform designed for analyzing banking data. It provides insightful analytics, reports, and dashboards to help financial institutions make informed decisions.
 
+## Output
+![Screenshot Description](screenshot.png)
+
 ## Features
 - Data visualization with interactive charts
 - Financial reports and trend analysis
